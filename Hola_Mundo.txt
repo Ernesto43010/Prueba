@@ -1,1 +1,6 @@
-Archivo numero 2 con\n Hola mundo
+Archivo numero 2 con Hola mundo
+
+agregando codigo de python
+
+print("Hola mundo")
+
